@@ -1,0 +1,7 @@
+Branching tutorial 
+
+1. By default our branch is set to master 
+
+2. Chnage the branch from master to other , that simply creates a copy of the master branch , or we can say
+it makes a copy of the folder 
+
