@@ -9,3 +9,4 @@ it makes a copy of the folder
 
 4. To switch to new branch : git checkout newbranchname
 
+5. To merge teo branches , firsty change the branch to master oon git , then : git merge newbranchname
