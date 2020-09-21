@@ -11,4 +11,6 @@ it makes a copy of the folder
 
 5. To merge teo branches , firsty change the branch to master oon git , then : git merge newbranchname
 
-6. To delete created bracnh we use : git branch -d newbranchname
+6. To delete created bracnh  from system we use : git branch -d newbranchname
+
+7. To delete created branch from github we use : git push origin --delete newbranchname
